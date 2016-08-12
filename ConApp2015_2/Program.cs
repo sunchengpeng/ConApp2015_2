@@ -10,6 +10,7 @@ namespace ConApp2015_2
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Lalala");
         }
     }
 }
